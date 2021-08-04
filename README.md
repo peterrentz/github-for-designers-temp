@@ -8,3 +8,5 @@ This is editing in text editor
 I am making edits in this file from my computer.
 
 This is a second edit.
+
+Branch edit.
